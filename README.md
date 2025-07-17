@@ -11,10 +11,12 @@ T-Table文件是结合查表优化与SIMD并行的方式
 最后我们将优化前和优化后的性能测试进行对比，如下图所示：
 
 优化前：
+
 SM4：
 ![image](SM4.png)
 
 优化后：
+
 SIMD：
 ![image](SIMD.png)
 
